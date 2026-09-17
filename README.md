@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Introduzir os conceitos fundamentais de lógica de programação e ensinar, de forma prática e gradual, como transformar problemas simples em algoritmos e soluções estruturadas.
+Este guia apresenta uma abordagem prática para aprender lógica de programação e construir algoritmos.
 
 ## Público-alvo
 
