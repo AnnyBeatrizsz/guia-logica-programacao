@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-O guia ensina lógica de programação por meio de conceitos fundamentais, exemplos e exercícios práticos.
+Este guia apresenta uma abordagem prática para aprender lógica de programação, utilizando conceitos fundamentais, exemplos e exercícios para transformar problemas em algoritmos.
 
 ## Público-alvo
 
